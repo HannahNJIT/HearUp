@@ -3,8 +3,7 @@
 All-in-one cardiac digital twin widget including personalized holographic 1.) healthy and 2.) abnormal heartbeat simulations and AI-ML driven risk prediction for long-term health outcomes to empower patient-provider interactions and provide additional considerations in holistic care. This streamlines the explanation of complex cardiological diagnoses such as atrial fibrillation. Our RNN deep learning models are constructed using genetic, environmental, lifestyle, and personalized health information, including data from patients' charts. Models provide predictive risk scores of future events or conditions occurring that existing tools cannot anticipate, such as iron-deficiency anemia in the case of atrial fibrillation. 
 
 ### Data Files
-All additional data files are available on [Google Drive](https://drive.google.com/drive/folders/1FI2YUl5tPj-B_HsUYBclEO3AYK01i9hj?usp=sharing) due to Github's storage limitations. 
-See [Installation & Deployment](##Installation & Deployment)
+All additional data files are available on [Google Drive](https://drive.google.com/drive/folders/1FI2YUl5tPj-B_HsUYBclEO3AYK01i9hj?usp=sharing) due to Github's storage limitations. See **Installation & Deployment** below.
 
 This includes input datasets, model training history, evaluation results, and final model output files:
 - **data/ECGModel**: Contains raw ECG datasets for training and testing (`mitbih_test.csv`, `mitbih_train.csv`, `ptbdb_abnormal.csv`, `ptbdb_normal.csv`).

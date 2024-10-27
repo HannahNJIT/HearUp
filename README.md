@@ -7,7 +7,11 @@ Current companies have been able to use Fitbit data to detect and notify patient
 By augmenting our ECG data inputs with laboratory blood tests and leveraging state-of-the-art AI models, we can more efficiently identify the complex nonlinear/synergistic effects of different clotting factors and how their interplay is affected by the changes in flow induced by arrhythmia. By flagging patients at risk of a clotting event, providers can intervene earlier with low-cost therapies (blood thinners?), saving both patient lives and vital resources for the healthcare system.
 
 ### Data Files
-All additional data files are available on Google Drive due to Github's storage limitations. This includes input datasets, model training history, evaluation results, and final model output files:
+All additional data files are available on Google Drive due to Github's storage limitations. 
+
+[Data/Output Google Drive](https://drive.google.com/drive/folders/1FI2YUl5tPj-B_HsUYBclEO3AYK01i9hj?usp=sharing)
+
+This includes input datasets, model training history, evaluation results, and final model output files:
 - **data/ECGModel**: Contains raw ECG datasets for training and testing (`mitbih_test.csv`, `mitbih_train.csv`, `ptbdb_abnormal.csv`, `ptbdb_normal.csv`).
 - **data/heart**: Heart dataset (`heart.csv`) for model training and evaluation.
 - **output/ecg**:
